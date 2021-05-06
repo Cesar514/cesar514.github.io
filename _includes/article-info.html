@@ -40,7 +40,7 @@
       {%- if _show_tags -%}
 
         <ul class="left-col menu">
-          {%- assign _tag_path = _paths_archive | prepend: '/blog' | append: '?tag=' -%}
+          {%- assign _tag_path = _paths_archive | append: '?tag=' -%}
           {%- include snippets/prepend-baseurl.html path=_tag_path -%}
 
           {%- for _tag in include.article.tags -%}

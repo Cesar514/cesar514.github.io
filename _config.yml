@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Cesar514
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  This is my site, my personal creative space. Engineering, creative writing, drawings, and some crazy posts.
 
 
 ## => Language and Timezone
@@ -66,7 +66,7 @@ repository_tree: master
 paths:
   root    : # title link url, "/" (default)
   home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  archive : /blog/archive.html # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
 
@@ -86,7 +86,7 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: ture # false (default), true
+mathjax: true # false (default), true
 mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
@@ -99,7 +99,7 @@ chart: true # false (default), true
 ## => Paginate
 ##############################
 paginate: 8
-paginate_path: /blog/page:num # don't change this unless for special need
+paginate_path: blog/page:num # don't change this unless for special need
 
 
 ## => Sources

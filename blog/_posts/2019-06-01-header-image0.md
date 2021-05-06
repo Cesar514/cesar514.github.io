@@ -8,7 +8,9 @@ article_header:
     aside:
       toc: true
 ---
-<img src="/blog/assetsb/MySpriteV2.png" alt="Simply Easy Learning"> <br>
+
+![](/blog/assetsb/MySpriteV2.png)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempor a justo sit amet hendrerit. Curabitur a mi facilisis, imperdiet tortor ut, tincidunt diam. Aenean porttitor diam id pharetra rutrum. Mauris sed fringilla quam. Maecenas id tristique lorem. Cras eu rutrum odio, sed sollicitudin justo. Morbi sit amet lacus odio. Suspendisse a maximus nisl. Suspendisse eu consequat nisi. Donec odio libero, semper et arcu eget, laoreet pretium mi.
 
 <!--more-->
