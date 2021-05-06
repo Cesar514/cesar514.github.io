@@ -1,32 +1,42 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Timeline
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url:      /blog/about.html
-
+    url:      /blog/timeline.html
   - titles:
       # @start locale config
-      en      : &EN       Blog
+      en      : &EN       Checklist
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url:      /blog
+    url:        /blog/checklist.html
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Journal
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url:      /blog/
+  - titles:
+      # @start locale config
+      en      : &EN       Records
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
     url:        /blog/archive.html
+
+
 
 
 docs-en:
