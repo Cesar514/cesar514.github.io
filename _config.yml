@@ -53,6 +53,7 @@ author:
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   youtube   : UCiZ_cD1wZ4FmyN7xW8ATx2g #
   instagram : cesar514 #
+  goodreads : 111129990-cesar-contreras #
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
@@ -225,3 +226,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+## => Collections
+##############################
+collections:
+  portfolio:
+      output: true;
+      permalink: /blog/portfolio/:path/

@@ -120,7 +120,7 @@
 
     {%- if _author.youtube -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'YouTube' }}">
-        <a class="button button--circle npm-button" itemprop="sameAs" href="https://www.youtube.com/channel/{{ _author.youtube }}" target="_blank">
+        <a class="button button--circle weibo-button" itemprop="sameAs" href="https://www.youtube.com/channel/{{ _author.youtube }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/youtube.svg -%}</div>
         </a>
       </li>
@@ -128,8 +128,16 @@
 
     {%- if _author.instagram -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Instagram' }}">
-        <a class="button button--circle npm-button" itemprop="sameAs" href="https://www.instagram.com/{{ _author.instagram }}" target="_blank">
+        <a class="button button--circle npm-button" background-color: coral; "sameAs" href="https://www.instagram.com/{{ _author.instagram }}" target="_blank">
           <div class="icon">{%- include svg/icon/social/instagram.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
+    {%- if _author.goodreads -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Goodreads' }}">
+        <a class="button button--circle github-button" itemprop="sameAs" href="https://www.goodreads.com/user/show/{{ _author.goodreads }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/goodreads.svg -%}</div>
         </a>
       </li>
     {%- endif -%}

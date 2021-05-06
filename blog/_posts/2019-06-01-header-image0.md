@@ -1,19 +1,25 @@
 ---
-title: Post with Header Image
-tags: TeXt
+layout: article
+title: Page - Article Header Overlay Background Image
+tags: default
 article_header:
-  type: cover
-  image:
-    src: assets\cesar.jpg
-    aside:
-      toc: true
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image: false
+aside:
+  toc: true
 ---
+<div align="center" markdown="1">
+![](/blog/assets/MySpriteV2.png)
+</div>
 
-![](/blog/assetsb/MySpriteV2.png)
+<div align="justify" markdown="1">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempor a justo sit amet hendrerit. Curabitur a mi facilisis, imperdiet tortor ut, tincidunt diam. Aenean porttitor diam id pharetra rutrum. Mauris sed fringilla quam. Maecenas id tristique lorem. Cras eu rutrum odio, sed sollicitudin justo. Morbi sit amet lacus odio. Suspendisse a maximus nisl. Suspendisse eu consequat nisi. Donec odio libero, semper et arcu eget, laoreet pretium mi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.<!--more-->Morbi tempor a justo sit amet hendrerit. Curabitur a mi facilisis, imperdiet tortor ut, tincidunt diam. Aenean porttitor diam id pharetra rutrum. Mauris sed fringilla quam. Maecenas id tristique lorem.  Cras eu rutrum odio, sed sollicitudin justo. Morbi sit amet lacus odio. Suspendisse a maximus nisl. Suspendisse eu consequat nisi. Donec odio libero, semper et arcu eget, laoreet pretium mi.
 
-<!--more-->
+<div>
+
 
 # H1
 
