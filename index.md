@@ -16,7 +16,7 @@ aside:
 
 ## **About**
 <p style='text-align: justify;' markdown="1">
-**Age:** 23 <br>
+**Age:** 24 <br>
 **Gender:** Male <br>
 **Languages:** English, Spanish, French. <br>
 **Likes:** Rain. Music. <br>
@@ -88,7 +88,7 @@ things I would like to learn how to do.
 </div>
 
 **Mechatronics Student Club Captain** <br>
-*Laboratory of Automation and Manufacturing Anáhuac México* ***2018→2020***
+*Laboratory of Automation and Manufacturing Anáhuac México* ***2018 → 2020***
 <div style='text-align: justify;' markdown="1">
 * Led a team of 6 and successfully worked on different time-based projects saving up to 15% of the time allocated for the projects, managing to reduce some final products cost by a 5 to 10%.
 * Identified multiple acceptable resolutions to engineering problems and worked on selecting the most efficient solution.

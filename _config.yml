@@ -40,8 +40,8 @@ author:
   avatar    : assets/images/MySpriteV2.png # path or url of avatar image (square)
   bio       : Mechatronics Engineer
   email     : c14alan@gmail.com
-  facebook  : CesarContreras514 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : Xesar514 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  facebook  : #CesarContreras514 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : #Xesar514 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -52,7 +52,7 @@ author:
   github    : Cesar514 # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   youtube   : UCiZ_cD1wZ4FmyN7xW8ATx2g #
-  instagram : cesar514 #
+  instagram : #cesar514 #
   goodreads : 111129990-cesar-contreras #
 
 
