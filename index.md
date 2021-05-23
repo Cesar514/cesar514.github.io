@@ -165,7 +165,7 @@ things I would like to learn how to do.
 
 ## **Portfolio**
 <p style='text-align: justify;' markdown="1">
-**I'm going to add links to some projects I have done in this section**
+[Click here to visit the portfolio](/blog/portfolio.html)
 </p>
 
 
