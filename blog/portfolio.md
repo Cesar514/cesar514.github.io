@@ -214,6 +214,7 @@ Upon advancing the manufacturing of the work piece different flags are activated
 
 <div>{%- include extensions/youtube.html id='cYJgi3GVhAI' -%}</div>
 
+[More Projects on Youtube](https://www.youtube.com/channel/UCiZ_cD1wZ4FmyN7xW8ATx2g)
 <!-- [More Automation Click Here](2016/05/16/memorama-the-game.html) <br> -->
 <!-- [More Robots and workcells Click Here](2016/05/16/memorama-the-game.html) <br> -->
 <!-- [More CAD Click Here](2016/05/16/memorama-the-game.html) <br> -->
