@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Brick Making Machine Simulation
+title: Brick Making Machine Solidworks Simulation
 tags: CAD
 article_header:
   type: overlay

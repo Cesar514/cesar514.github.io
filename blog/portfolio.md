@@ -16,6 +16,80 @@ aside:
 
 # Some of My Favorite Projects
 
+## Milk bottles line.
+
+### Situation Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image22.png)
+</div>
+
+<div align="justify" markdown="1">
+It seeks to carry out the process of a production line for a system that can perform the following tasks:
+- Filling
+- Placement of covers
+- Palletizing
+<br>
+The system is an automated line with a conveyor belt that moves a set of 3 bottles, towards the different stages of the process, when these bottles arrive at any station of the process, they are detected by a sensor, which carries out the count of The bottles.
+The first "Filling" station must allow the entry of 3 bottles so that they can be filled.
+This process consists of 3 actuators: <br>
+- 1A double-acting cylinder to lower the filling unit.
+- 2A single-acting cylinder to unblock the passage of the material with which the bottles will be filled. This unlock should last 4 seconds, so a timer should be used here.
+- 3A single-acting cylinder to block the passage to the next station. Here, another timer must be used to simulate the time it would take for the bottles to move to the next station. <br>
+For simulation purposes, a time of 2 seconds will be used.
+The second station "Cap placement" must receive 3 bottles, allow their entry, detect and count them. Once inside they must be screwed.
+This process consists of 5 actuators:
+- The actuator 4A is a double-acting cylinder that lowers to be able to position itself on the bottle to start the placement of the screw caps.
+- The 5A actuator is a single-acting cylinder which is initially extended, when activated, it retracts and allows the screw caps to pass towards the top of the bottle.
+- The 6A actuator is a pneumatic gripper, in this case it operates as a single-acting cylinder. When activated, it must hold the cover to allow it to be turned with force.
+- The 7A actuator is a rotic, this rotic when holding the cap and turning, closes the bottle, and in this way the cap remains on.
+- Actuator 8A is a single-acting cylinder, it allows the bottles to pass to the next station and after a while it closes blocking, this simulating the time it would take for the bottles to pass through the band to reach the next stage, to simulation effects will be used 2 seconds.<br>
+
+The third "Palletizing" station must receive 3 bottles, allow their entry, count them and push them to a storage position such as a box. When completing 4 cycles, a pallet of 12 milk bottles is assembled, which sends a signal, to indicate that this was achieved.
+This process consists of 2 actuators:
+- Cylinder 9A is a single-acting cylinder that allows the bottles to pass to the station, this considers the transport through the belt, so physically it would take some time, for simulation we consider this time as 2 seconds.
+- Cylinder 10A is a double-acting cylinder that moves the 3 bottles towards the accumulation zone. The advantage of using a double acting cylinder is that the force with which it returns can be physically controlled so that it could perform an additional task.
+- Palletizing additionally has a pivot that when completing 4 cycles is activated, showing that it has been completed.
+All actuators use magnetic sensors so that they do not interfere with the system when extending and retracting, except for the rotic actuator that uses cam sensors.
+</div>
+
+### Movement Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image23.png)
+</div>
+
+
+### Pneumatic Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image24.png)
+</div>
+
+
+### States Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image25.png)
+</div>
+
+##Dividing the process
+
+###Station 1 Milk Filling Pneumatic Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image26.png)
+</div>
+###Station 2 Place Lids Pneumatic Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image27.png)
+</div>
+
+###Station 3 Palletizing Pneumatic Diagram
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image28.png)
+</div>
+
+### Operation Diagram for boxes of 12 bottles
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image29.png)
+</div>
+
 
 ## Pick & Place Programming with FactoryIO
 
