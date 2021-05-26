@@ -288,6 +288,18 @@ Upon advancing the manufacturing of the work piece different flags are activated
 
 <div>{%- include extensions/youtube.html id='cYJgi3GVhAI' -%}</div>
 
+## Crankshaft Study
+It is desired to make a frequencies study of a crankshaft made of AISI 304 material and how different torsions and centrifugal forces affect the deformation of parts with their resonant frequencies. <br>
+
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image30.png)
+</div>
+
+<div align="center" markdown="1">
+![](/blog/assets/portfolio/image31.png)
+</div>
+
+
 [More Projects Videos on Youtube](https://www.youtube.com/channel/UCiZ_cD1wZ4FmyN7xW8ATx2g)
 [Other Projects](https://cesar514.github.io/blog/archive.html)
 <!-- [More Automation Click Here](2016/05/16/memorama-the-game.html) <br> -->
