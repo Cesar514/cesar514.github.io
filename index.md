@@ -12,31 +12,25 @@ aside:
 </div>
 
 
+## **Status Update**
+Working on a project with self generating art. ***03/11/2022***
 
-
-## **About**
+## **About Me**
 <p style='text-align: justify;' markdown="1">
 **Age:** 24 <br>
 **Gender:** Male <br>
 **Languages:** English, Spanish, French. <br>
-**Likes:** Rain. Music. <br>
-**Hashtags:** #LoveFood #AI <br>
+**Likes:** Rain. Music. AI. <br>
 <br>
-I like learning and applying technology to solve problems in different areas.
-My main objective is to solve whatever problem comes next that will help make the world
-a better place. <br>
-At school I worked in multiple team projects related to the programming of robotic systems,
-automation, manufacturing, design, software and computer vision systems.
-If I need to get something done and I don’t know how to do it,
-I learn how to do it and get it done.<br>
-Today I'm specially interested in the use of VR and AR for a better development of society
-and a better education system. I'm also interested in the brain, and dreams, and
-maybe I'll continue investigating things related to that. <br>
-I like learning a lot, I tend to take courses all around the internet about
-things I would like to learn how to do.
+I am me. I’ve been working on some neural networks, robotics, software engineering, CNC manufacturing and computer vision for the last months. Learning new things and applying those with engineering and technology to solve problems found in different areas is what I enjoy the most. I want to work on solving problems which solution could make the world a better place for humanity. <br>
+I’ve worked with electronics since I was a child. Been programming since elementary school. Worked in multiple team projects related to the programming and construction of robotic systems, projects related to industrial automation, manufacturing, pieces design, software development and computer vision.
+Whenever I need to get something done and I don’t know how to do it I learn how to do it and get it done. <br>
+I’m especially interested in areas related to intelligent systems, cognitive systems, robotics, assistive technologies, adaptive VR, AR and cyber-physical systems. I’m also interested in the brain, emotions and simulated environments. <br>
+Dreams are interesting as well, knowing more about the way they work is also one of my priorities <br>
 <br>
 <br>
 </p>
+
 
 ***Favorite Quotes:*** <br>
 
@@ -52,14 +46,20 @@ things I would like to learn how to do.
 
 
 ## **Education**
-**<font size ='+2'> B.S Mechatronics Engineering </font>** <br>
-*Universidad Anáhuac México Norte* ***(2016 → 2020)*** <br>
-**<font size ='+2'> Industrial Automation Specialty </font>** <br>
-*Universidad Anáhuac México Norte* ***(2019 → 2020)*** <br>
-**<font size ='+2'> Automotive Mechanics Design Specialty </font>** <br>
-*Universidad Anáhuac México Norte* ***(2019 → 2020)*** <br>
-**<font size ='+2'> Entrepreneurial Studies Specialty </font>** <br>
-*Universidad Anáhuac México Norte* ***(2017 → 2018)*** <br>
+
+<div style='text-align: center;' markdown="1">
+*Universidad Anáhuac México Norte* <br>
+***<font size ='-1'> 2016 → 2020</font>*** <br>
+**<font size ='+5'> B.S Mechatronics Engineering </font>** <br>
+
+***<font size ='-1'> 2019 → 2020</font>*** <br>
+**<font size ='+3'> Industrial Automation Specialty </font>**<br>
+**<font size ='+3'> Automotive Mechanics Design Specialty </font>**<br>
+
+***<font size ='-1'> 2017 → 2018</font>*** <br>
+**<font size ='+3'> Entrepreneurship Specialty </font>** <br>
+
+</div>
 <!-- <img src="/assets/anahuac.png" height="50px" width="50px"> -->
 
 
@@ -127,12 +127,19 @@ things I would like to learn how to do.
 
 
 ## **Programming Languages**
-*I know how to program in these languages (the filled stars represent my proficiency)* <br>
+*I learned how to program in multiple languages, I've worked with these:* <br>
 
-★ ★ ★ ★ ☆ Python<br>
-★ ★ ★ ☆ ☆ MATLAB <br>
-★ ★ ★ ☆ ☆ Assembly Language <br>
-★ ★ ★ ☆ ☆ C/C++ <br>
+**Python**<br>
+* Worked with some CNNs  and RNNs.
+* Created a calculator.
+* Made a bot for Albion Online.
+* Worked on some small games, quizzes and other game prototypes.
+* Multithreading and Multiprocessing applying neural networks for TTS virtual assistant
+* Connected virtual models to physical systems
+*
+**MATLAB**<br>
+**Assembly Language** <br>
+**C/C++** <br>
 ★ ★ ★ ☆ ☆ C# <br>
 
 
@@ -211,7 +218,10 @@ things I would like to learn how to do.
 
 ## **Interests**
 <p style='text-align: justify;' markdown="1">
-**I like music, online courses and videogames.**
+* **I like music, online courses and videogames.**
+* **I enjoy online courses.**
+* **I want to know more about the brain.**
+
 </p>
 
 ### ***Favorite Songs***
@@ -236,9 +246,3 @@ things I would like to learn how to do.
 * **TLDR0324** Professional Ethical Dilemmas (2019) by Professor Mario Alfredo Abad Schoster .
 * **ECUG0355** Superheroes in our Culture (2019) by Professor Pablo De Robina Duhart .
 * **EFEA0316** Death and its Transcendental Meaning (2018) by Professor Maria Cabrera Vargas .
-
-
-
-
-## **Current Status**
-***Trying to learn how to make a cool website 5/6/2021***
