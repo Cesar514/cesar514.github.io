@@ -1,27 +1,37 @@
 ---
 layout: article
-title: Welcome to the Site!
+title: Welcome to my personal site!
 aside:
   toc: true
 ---
 
-# Cesar Contreras
+# Cesar A. Contreras
 <div align="center" markdown="1">
 ![Cesar514](assets\cesar.jpg){:width="128px" height="128px"}{:.circle.border.shadow} <br>
 ***Mechatronics Engineer*** <br>
 </div>
 
+## **Important Information**
+<p style='text-align: justify;' markdown="1">
+This is my personal website, so everything on my site is influenced by my personal opinions, viewpoints, rules, and other personality-based attitudes. If you want something more professional, please visit my LinkedIn or download my CV [(press here to download)](blog/assets/CV_Cesar.pdf).
+</p>
 
 ## **Status Update**
+<p style='text-align: justify;' markdown="1">
+Working on modifying website to depict more information about myself. ***06/16/2022*** <br>
 Working on a project with self generating art. ***03/11/2022***
+
+</p>
 
 ## **About Me**
 <p style='text-align: justify;' markdown="1">
-**Age:** 24 <br>
+**Age:** 25 <br>
+**Birthdate:** May 14 1997, 14:32pm <br>
 **Gender:** Male <br>
 **Languages:** English, Spanish, French. <br>
 **Likes:** Rain. Music. AI. <br>
 <br>
+
 I am me. I’ve been working on some neural networks, robotics, software engineering, CNC manufacturing and computer vision for the last months. Learning new things and applying those with engineering and technology to solve problems found in different areas is what I enjoy the most. I want to work on solving problems which solution could make the world a better place for humanity. <br>
 I’ve worked with electronics since I was a child. Been programming since elementary school. Worked in multiple team projects related to the programming and construction of robotic systems, projects related to industrial automation, manufacturing, pieces design, software development and computer vision.
 Whenever I need to get something done and I don’t know how to do it I learn how to do it and get it done. <br>
@@ -34,30 +44,33 @@ Dreams are interesting as well, knowing more about the way they work is also one
 
 ***Favorite Quotes:*** <br>
 
-> “Four things support the world: the learning of the wise, the justice of the great, the prayers of the good, and the valor of the brave”
+> No half-heartedness and no worldly fear must turn us aside from following the light unflinchingly.
 >
-> --***Muhammed***
+> --***J.R.R. Tolkien***
 
 > Be weird. Be random. Be who you are. Because you never know who would love the person you hide.
 >
 > --***C.S. Lewis***
+
+> “Four things support the world: the learning of the wise, the justice of the great, the prayers of the good, and the valor of the brave”
+>
+> --***Muhammed***
 
 
 
 
 ## **Education**
 
-<div style='text-align: center;' markdown="1">
-*Universidad Anáhuac México Norte* <br>
-***<font size ='-1'> 2016 → 2020</font>*** <br>
-**<font size ='+5'> B.S Mechatronics Engineering </font>** <br>
+<div style='text-align: justify;' markdown="1">
 
-***<font size ='-1'> 2019 → 2020</font>*** <br>
-**<font size ='+3'> Industrial Automation Specialty </font>**<br>
-**<font size ='+3'> Automotive Mechanics Design Specialty </font>**<br>
+* ***<font size ='+1'> University of Birmingham </font>***
+  * **<font size ='+2'> M.Sc Computational Neuroscience and Cognitive Robotics </font>** ***<font size ='-2'> 2022 → 2023</font>***
 
-***<font size ='-1'> 2017 → 2018</font>*** <br>
-**<font size ='+3'> Entrepreneurship Specialty </font>** <br>
+* ***<font size ='+1'> Universidad Anáhuac México Norte </font>***
+  * **<font size ='+2'> B.Sc Mechatronics Engineering </font>** ***<font size ='-2'> 2016 → 2020</font>***
+    * *<font size ='+1'> Industrial Automation Specialty </font>* ***<font size ='-2'> 2019 → 2020</font>***
+    * *<font size ='+1'> Automotive Mechanics Design Specialty </font>* ***<font size ='-2'> 2019 → 2020</font>***
+    * *<font size ='+1'> Entrepreneurship Specialty </font>* ***<font size ='-2'> 2017 → 2018</font>***
 
 </div>
 <!-- <img src="/assets/anahuac.png" height="50px" width="50px"> -->
@@ -69,16 +82,36 @@ Dreams are interesting as well, knowing more about the way they work is also one
 
 ### **Career Experiences**
 
-**Trainee Robotics Engineer** <br>
-*Laboratory of Automation and Manufacturing Anáhuac México* ***2020***
+**Engineer** ***<font size ='-2'> 2021 → Present </font>*** <br>
+*Dreamlands Guild*
+<div style='text-align: justify;' markdown="1">
+* Game design, programming and testing.
+* Software design, programming and testing.
+* Physical prototyping.
+* TTS software.
+* Engineering consultant.
+</div>
+
+
+**Software Engineer** ***<font size ='-2'> 2021 → Present </font>*** <br>
+*Grupo Importadores*
+<div style='text-align: justify;' markdown="1">
+* Server management.
+* Equipment diagnostics (mechanical, electronical).
+* In-house software maintenance.
+</div>
+
+
+**Trainee Robotics Engineer** ***<font size ='-2'> 2020 </font>*** <br>
+*Laboratory of Automation and Manufacturing Anáhuac México*
 <div style='text-align: justify;' markdown="1">
 * Worked on a team of 4 in the development of a methodology for the implementation of ROS with existing lab equipment, allowing the development of future projects with the framework.
 * Performed different simulations of Robots using CIROS Studio, Gazebo, CoppeliaSim, MoveIt and MATLAB, connecting with the ROS frameworks, validating its functionality.
 * Assisted in the development of custom applications for vision systems using Python. <br>
 </div>
 
-**Technology and Innovation Engineer** <br>
-*Centro de Alta Dirección en Ingeniería y Tecnología Anáhuac México* ***2019 → 2020***
+**Technology and Innovation Engineer** ***<font size ='-2'> 2019 → 2020 </font>*** <br>
+*Centro de Alta Dirección en Ingeniería y Tecnología Anáhuac México*
 <div style='text-align: justify;' markdown="1">
 * Worked with dentists in the research of possible applications for the 3D printing of lower jaws and teeth using DICOM files, testing the prints in different materials and simulating them for possible prothesis designs.
 * Custom automation and modification of 3D printing hardware to work with inhouse materials, saving the costs of acquiring new equipment.
@@ -87,8 +120,8 @@ Dreams are interesting as well, knowing more about the way they work is also one
 * Handled newly acquired equipment and components on a small team tasked with finding possible applications for them using quick prototyping techniques. The equipment included commercially available hardware and inhouse technology. <br>
 </div>
 
-**Mechatronics Student Club Captain** <br>
-*Laboratory of Automation and Manufacturing Anáhuac México* ***2018 → 2020***
+**Mechatronics Student Club Captain** ***<font size ='-2'> 2018 → 2020 </font>*** <br>
+*Laboratory of Automation and Manufacturing Anáhuac México*
 <div style='text-align: justify;' markdown="1">
 * Led a team of 6 and successfully worked on different time-based projects saving up to 15% of the time allocated for the projects, managing to reduce some final products cost by a 5 to 10%.
 * Identified multiple acceptable resolutions to engineering problems and worked on selecting the most efficient solution.
@@ -97,13 +130,36 @@ Dreams are interesting as well, knowing more about the way they work is also one
 
 ### **Other Experience**
 <div style='text-align: justify;' markdown="1">
-* Interact Club Treasurer ***2014 → 2016***
+* **YouTuber** ***<font size ='-2'> 2021 → Present </font>***
+  * Mystery Videos.
+  * Music Tutorials.
+  * Historical and Fantasy stories.
+
+* **Guild Vice-Leader** *New World* ***<font size ='-2'> 2022 → 2022 </font>***
+
+* **Team Vice-Leader** *Overwatch* ***<font size ='-2'> 2017 → 2019 </font>***
+
+* **College Tutor** ***<font size ='-2'> 2016 → Present </font>***
+  * Physics I, II, III.
+  * Robotics.
+  * Math.
+  * Statistics.
+  * Geometry.
+  * Calculus I, II, III.
+  * Object Oriented Programming.
+  * Databases.
+  * Embedded Systems.
+  * Many more...
+
+* **Treasurer** *Interact Club* ***<font size ='-2'> 2014 → 2016 </font>***
+
+* **Guild Vice-Leader** *Tibia "Reservoir Dogs"* ***<font size ='-2'> 2008 → 2014 </font>***
 </div>
 
 
 
 ## **Skills**
-### Extra Career Skills
+### Other career skills
 <div style='text-align: justify;' markdown="1">
 * Robots programming and simulations for industrial applications with CIROS Studio for the optimization of times spent on a workcell using MRL and Polyscope.
 * PLC programming especially using the LOGO! by Siemens.
@@ -117,7 +173,7 @@ Dreams are interesting as well, knowing more about the way they work is also one
 * AR application development using Unity and Vuforia
 </div>
 
-### Other Useful skills
+### Other useful skills
 <div style='text-align: justify;' markdown="1">
 * I tend to learn how to do things I want to do.
 * Experience working with kids in educative environments.
@@ -129,18 +185,34 @@ Dreams are interesting as well, knowing more about the way they work is also one
 ## **Programming Languages**
 *I learned how to program in multiple languages, I've worked with these:* <br>
 
-**Python**<br>
-* Worked with some CNNs  and RNNs.
-* Created a calculator.
-* Made a bot for Albion Online.
-* Worked on some small games, quizzes and other game prototypes.
-* Multithreading and Multiprocessing applying neural networks for TTS virtual assistant
-* Connected virtual models to physical systems
-*
-**MATLAB**<br>
-**Assembly Language** <br>
-**C/C++** <br>
-★ ★ ★ ☆ ☆ C# <br>
+* **Python**<br>
+  * Worked with some CNNs  and RNNs.
+  * Created multiple education aid software.
+  * Worked on computer vision for the creation of online gaming bots.
+  * Worked on some small games, quizzes and other game prototypes.
+  * Multithreading and Multiprocessing applying neural networks for TTS virtual assistant.
+  * Connected virtual models to physical systems.
+  * Servers and databases management
+* **MATLAB**
+  * Worked with cyberphysical systems.
+  * Worked on biosystems, heartrate systems, and positioning systems.
+  * Worked on some brain studies.
+  * Used different proportional, integral and derivative controllers to control mechanisms
+* **Assembly Language**
+  * Sports projects.
+  * White hat projects.
+  * Embedded systems projects.
+  * Mobile Neural Networks
+* **C/C++**
+  * Robotic things.
+  * Mechatronic devices.
+  * Digital twins.
+* **C#**
+  * Games.
+* **Java**
+  * Softwware prototypes.
+* **Webstack software**
+  * CSS, HTML, JavaScript, Ruby, NodeJS, Angular, Apache, MySQL, Python, Bootstrap
 
 
 
@@ -179,8 +251,25 @@ Dreams are interesting as well, knowing more about the way they work is also one
 
 
 ## **Awards and Certifications**
-### **Awards**
+### **Awards and Achievements**
 * Universidad Anáhuac Academic Excellence (2020) [<i class="fas fa-award"></i>](https://www.anahuac.mx/mexico/)
+*	Gambas programming Award. 2017.
+*	Anahuac’s Best Student Scholarship (covering 90% of the tuition). 2016 – 2020.
+*	Cumbres-Alpes Institute High School Valedictorian 2016.
+*	ITPN XXVII Regional (Northern Coahuila and Southern Texas) Math Tournament First Place. 2016.
+*	Rotary’s District 4110 Interact Club Council Member Award. 2015.
+*	ITPN XXVI Regional (Northern Coahuila and Southern Texas) Math Tournament First Place. 2015.
+*	PIBA Math’s Tournament second place award. 2014.
+*	PIBA Best Short Film Script Award. 2014.
+* The Philosophy of Friendship and Love "Life Contribution Award". 2013
+* School of love and life Council Award. 2012.
+*	Intercollegiate Academic Tournament (TAI) 7th grade Math First Place. 2011.
+* Young Author "Sci-fi" Award 2010.
+* Young Author "Fantasy" Award 2010.
+* Young Author "Mystery" Award 2010.
+* School of Magical Arts Award. 2008.
+* Best soccer team member. 2005.
+* Best baseball team member. 2004.
 ### **Badges**
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bf01eca9-ebb0-4fc0-a24d-e3e4ac544c63" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
@@ -213,32 +302,6 @@ Dreams are interesting as well, knowing more about the way they work is also one
 * **IMEC2304** Advanced Computer Design (2019) *by Dr. Juan Alfonso Beltran* [.](https://orcid.org/0000-0002-3527-1754)
 * **IMEC1306** Informatics: AR and VR (2019) *by Dr. Maria del Carmen Villar Patiño* [.](http://cadit.anahuac.mx/node/126)
 * **BIOI1301** Introduction to Bioengineering (2016) *by Dr. Jose Ramon Alvarez Bada* [.](http://cadit.anahuac.mx/node/180)
-
-
-
-## **Interests**
-<p style='text-align: justify;' markdown="1">
-* **I like music, online courses and videogames.**
-* **I enjoy online courses.**
-* **I want to know more about the brain.**
-
-</p>
-
-### ***Favorite Songs***
-* **Goodnight Demonslayer** by *Voltaire* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=ZyDWRCy5kfk&feature=share)
-* **Two Birds** by *Regina Spektor* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=lM_c1Y8xzcU&feature=share)
-* **Ghost of a Rose** by *Blackmore's Night* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=rN7ZlWaRxAM&feature=share)
-* **Home** by *Adriana Figueroa* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=YQ-fhqThau8&feature=share)
-* **Still Alive** by *Aperture Science Psychoacoustic Laboratories* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=AgMLPFCFE90&feature=share)
-* **The Sword & the Pen** by *Regina Spektor* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=LZuU0tMAV0M&feature=share)
-* **Everything Stays** Cover by *Ilonka Obilinovic* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=VmBWoC2E9v4&feature=share)
-* **When I Grow Up** by *Eleisha Eagle* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=rPs00rpDujQ&feature=share)
-* **Mariposa** by *César Franco* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=SMC-pbgJUDk&feature=share)
-* **Goodbye to a World** by *Porter Robinson* [<i class="fas fa-music"></i>](https://music.youtube.com/watch?v=cdHdPu4JqSE&feature=share)
-
-### ***Favorite Book***
-**The Little Prince** by *Antoine de Saint-Exupéry* [<i class="fas fa-book"></i>](https://www.goodreads.com/book/show/157993.The_Little_Prince) <br>
-![The Little Prince](assets\157993.jpg)
 
 ### **Courses taken,** *degree unrelated*
 * **EFEA0326** Dark Legends from the Church (2020) by Professor Guillermo Macias Graue .

@@ -5,14 +5,11 @@ aside:
   toc: true
 ---
 
-### Solar System Exploration, 1950s – 2030s
+### Professional
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+### Project Ideas
+
+### Personal
+- [x] Start making a checklist
+- [ ] Eat something cooked by my girlfriend
+- [ ] Get a girlfriend

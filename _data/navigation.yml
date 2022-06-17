@@ -19,13 +19,13 @@ header:
     url:        /blog/checklist.html
   - titles:
       # @start locale config
-      en      : &EN       Timeline
+      en      : &EN       Interests
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url:      /blog/timeline.html
+    url:      /blog/interests.html
   - titles:
       # @start locale config
       en      : &EN       Journal
